@@ -8,7 +8,7 @@ const eqArrays = function (arrVal1, arrVal2) {
     }
   }
   return true;
-}
+};
 
 
 const assertArraysEqual = function (arrVal1, arrVal2) {
