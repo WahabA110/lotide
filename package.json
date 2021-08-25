@@ -1,7 +1,7 @@
 {
-  "name": "lotide",
+  "name": "@wahab110/lotide",
   "version": "1.0.0",
-  "description": "",
+  "description": "mini clone of lodash library created as part of learnings at Lighthouse Labs",
   "main": "assertArraysEqual.js",
   "directories": {
     "test": "test"
@@ -13,7 +13,7 @@
     "type": "git",
     "url": "git+https://github.com/WahabA110/lotide.git"
   },
-  "author": "",
+  "author": "Wahab Alamin",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/WahabA110/lotide/issues"
